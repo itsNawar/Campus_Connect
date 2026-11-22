@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "7436148969",
+    "project_id": "reddit-clone-tutorial-7b3e3",
+    "storage_bucket": "reddit-clone-tutorial-7b3e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7436148969:android:81fb68f3aea8270f865078",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7436148969-pforgvdksqtgg1ql6ablf9dvdimmden5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reddit_tutorial",
+            "certificate_hash": "b56019fb4b22f62c71d7373a6561e8d0b046fc7b"
+          }
+        },
+        {
+          "client_id": "7436148969-ftqphhmk7k6lhndfhuqvthpsgrpiv908.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjP3e7ylHZs_txB4HKQ_AeK6no5UNMXdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7436148969-ftqphhmk7k6lhndfhuqvthpsgrpiv908.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7436148969-q4dhk7r8bbc59ecvdnntajmo09mdrplc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
